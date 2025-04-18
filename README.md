@@ -1,1 +1,3 @@
-# heuristic-traveling-salesman
+# Executive Summary
+
+This project applies Hill Climbing and Simulated Annealing algorithms to solve the Traveling Salesman Problem (TSP) in the context of an international retirement trip. With limited retirement funds, the goal is to visit a selection of countries and minimize the total travel distance, conserving resources to allow for a more comfortable retirement in the last country visited. I used Python to implement the algorithms and found the sequence of countries as follow: 'MEX', 'GUA', 'BLZ', 'HON', 'COS', 'PAN', 'COL', 'VEN', 'TRI', 'HAI', 'BHM', 'CAN', 'ICE', 'IRE', 'UK', 'FRN', 'NOR', 'SWD', 'FIN', 'EST', 'POL', 'GMY', 'CZE', 'AUS', 'HUN', 'GRC', 'SWZ', 'SPN', 'POR', 'BRA', 'PAR', 'ARG', 'BOL', 'PER', 'ECU', 'CUB'.
